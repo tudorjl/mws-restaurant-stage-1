@@ -1,0 +1,14 @@
+{
+  "name": "mws-restaurant-stage-1",
+  "version": "1.0.0",
+  "main": "imdex.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tudorjl/mws-restaurant-stage-1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "htmlhint": "^0.9.13"
+  }
+}
